@@ -1,0 +1,84 @@
+{
+  "germanParties": [
+    {
+      "name": "Christlich Demokratische Union Deutschlands",
+      "abbreviation": "CDU",
+      "country": "Germany",
+      "fraction": "European People's Party (EPP)",
+      "link": "https://www.cdu.de/",
+      "summary": "The CDU is a center-right political party in Germany and the largest party in the EPP group. It advocates for Christian democratic and liberal-conservative policies."
+    },
+    {
+      "name": "Christlich-Soziale Union in Bayern",
+      "abbreviation": "CSU",
+      "country": "Germany",
+      "fraction": "European People's Party (EPP)",
+      "link": "https://www.csu.de/",
+      "summary": "The CSU is a Christian-democratic and conservative political party in Bavaria, Germany. It works closely with the CDU on the national level and is part of the EPP group."
+    },
+    {
+      "name": "Sozialdemokratische Partei Deutschlands",
+      "abbreviation": "SPD",
+      "country": "Germany",
+      "fraction": "Progressive Alliance of Socialists and Democrats (S&D)",
+      "link": "https://www.spd.de/",
+      "summary": "The SPD is a social-democratic political party in Germany. It is one of the two major contemporary political parties in Germany and is part of the S&D group in the European Parliament."
+    },
+    {
+      "name": "Freie Demokratische Partei",
+      "abbreviation": "FDP",
+      "country": "Germany",
+      "fraction": "Renew Europe",
+      "link": "https://www.fdp.de/",
+      "summary": "The FDP is a liberal political party in Germany. It advocates for individual rights, economic liberalism, and is part of the Renew Europe group in the European Parliament."
+    },
+    {
+      "name": "Bündnis 90/Die Grünen",
+      "abbreviation": "Grüne",
+      "country": "Germany",
+      "fraction": "Greens/European Free Alliance (Greens/EFA)",
+      "link": "https://www.gruene.de/",
+      "summary": "The Green Party is a political party in Germany that focuses on environmental issues, social justice, and sustainability. It is part of the Greens/EFA group in the European Parliament."
+    },
+    {
+      "name": "Die Linke",
+      "abbreviation": "Linke",
+      "country": "Germany",
+      "fraction": "European United Left–Nordic Green Left (GUE/NGL)",
+      "link": "https://www.die-linke.de/",
+      "summary": "Die Linke is a democratic socialist and left-wing political party in Germany. It aims to promote social justice, anti-capitalism, and is part of the GUE/NGL group in the European Parliament."
+    },
+    {
+      "name": "Alternative für Deutschland",
+      "abbreviation": "AfD",
+      "country": "Germany",
+      "fraction": "Identity and Democracy (ID)",
+      "link": "https://www.afd.de/",
+      "summary": "The AfD is a right-wing to far-right political party in Germany. It focuses on nationalism, immigration control, and is part of the ID group in the European Parliament."
+    },
+    {
+      "name": "Freie Wähler",
+      "abbreviation": "FW",
+      "country": "Germany",
+      "fraction": "Renew Europe",
+      "link": "https://www.freiewaehler.eu/",
+      "summary": "Freie Wähler is a political party in Germany that emphasizes local issues, direct democracy, and is part of the Renew Europe group in the European Parliament."
+    },
+    {
+      "name": "Piratenpartei Deutschland",
+      "abbreviation": "Piraten",
+      "country": "Germany",
+      "fraction": "Greens/European Free Alliance (Greens/EFA)",
+      "link": "https://www.piratenpartei.de/",
+      "summary": "The Pirate Party Germany advocates for transparency, privacy rights, and internet freedom. It is part of the Greens/EFA group in the European Parliament."
+    },
+    {
+      "name": "Ökologisch-Demokratische Partei",
+      "abbreviation": "ÖDP",
+      "country": "Germany",
+      "fraction": "European Conservatives and Reformists (ECR)",
+      "link": "https://www.oedp.de/",
+      "summary": "The ÖDP is a conservative and ecological political party in Germany. It focuses on environmental protection, sustainable development, and is part of the ECR group in the European Parliament."
+    }
+  ]
+}
